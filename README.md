@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a data pipeline project designed to analyze alcohol consumption per country. The pipeline retrieves, cleans, and stores data in a Snowflake data warehouse, enabling further analysis and visualization using Tableau.
+This repository contains a data pipeline project designed to analyze alcohol consumption per country. The pipeline retrieves, cleans, and stores data in a Snowflake data warehouse, enabling further analysis and visualization using Tableau to analyze sales predictions for Labatt
 
 ## Table of Contents
 
